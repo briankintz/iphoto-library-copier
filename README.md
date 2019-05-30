@@ -1,0 +1,2 @@
+# iPhoto Library Copier
+
